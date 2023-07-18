@@ -1,3 +1,3 @@
 # learning-shell
 
-This my first shell script!
+I am learning shell script.
